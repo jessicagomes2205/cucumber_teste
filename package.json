@@ -1,0 +1,21 @@
+{
+  "name": "cucumber_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "10.7.0"
+  },
+  "dependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0",
+    "mocha-cucumber": "^0.0.5"
+  }
+}
